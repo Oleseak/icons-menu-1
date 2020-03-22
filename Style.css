@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(147, 147, 255);
+    font-family: 'Noto Sans', sans-serif;
+}
+.menufield{  
+ background-color: rgb(245, 240, 240) ;  
+ border-radius: 30px 30px 30px 30px;
+ height: 600px;
+ padding-left: 0.7em;
+ width: 250px;
+     }
+
+#start{
+    margin-top: 0.2em;
+    padding-bottom: 0.01em;
+    padding-left: 1em;
+    }
+#start h1{
+    margin-bottom: 1px;
+    padding-top: 0.7em;
+    padding-bottom: 1px;
+    font-weight: 700;
+    font-size: 1.5em;
+    }
+h3{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-size: 0.8em;
+    font-weight: 400;
+ }
+#intro{
+    background-color:rgb(216, 214, 214);
+    border-radius: 30px 30px 30px 30px;
+    height: 200px;
+    width: 240px;
+    margin-top: 4em;
+    font-size: 0.8em;
+    font-weight: 400;
+    }
+#intro p{
+    margin-left: 0.9em;
+    margin-right: 0.5em;
+    padding-top: 0.7em;
+}
+.icon{
+    margin-top: 5em;
+    margin-right: 2em;
+    margin-left: 2.8em;
+    
+}
+i{
+    width: 50px;
+    height: 50px;
+    font-size: 40px;
+    border-radius: 60px;
+ }
+i:hover{
+    color:green;
+}
+#face{
+    color: #3b5998 ;
+}
+#twit{
+    color:#1da1f2;
+}
+#yout{
+    color:#c4302b;
+}
